@@ -1,0 +1,16 @@
+Employee: Clam Chowder
+Day: Clam Chowder
+Payment option: Clam Chowder
+Drink: Clam Chowder
+Food: Clam Chowder
+Price: Clam Chowder
+
+
+Employee: r
+Day: Monday
+Payment option: r
+Drink: Bottled Water
+Food: Clam Chowder
+Price: 22.73
+
+
